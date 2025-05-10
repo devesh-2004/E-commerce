@@ -2,7 +2,7 @@ import React from 'react'
 
 const Recommended = () => {
   return (
-    <div className='bg-gray-400 flex flex-col text-2xl ml-[15%] p-5'>
+    <div className='flex flex-col text-2xl ml-[15%] p-5'>
     <h1 className='text-2xl font-bold text-black mb-5 mt-0.5'>Recommended</h1>
     <div className='flex gap-3 text-xl text-black'>
         <button className='bg-black p-2'>All</button>
